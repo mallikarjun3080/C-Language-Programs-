@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main()
 {
-	int i;
-	int n=5;
+	int i,j;
+	int n=5;  
 	
 	for(i=1;i<=n;++i){
 		for(j=1;j<=i;++j){
@@ -11,5 +11,5 @@ int main()
 		printf("\n");
 	}
 	
-	retunn 0;
+	return 0;
 }
