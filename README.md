@@ -3,3 +3,4 @@ C logical programs
 2. print alpha bit in row wise
 3. print Fibonacci numbers
 4. print given number prime number or not
+5. print math tables
